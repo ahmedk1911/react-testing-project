@@ -1,0 +1,13 @@
+*.class
+*.jar
+.DS_Store
+.env
+.env.local
+build/
+dist/
+lerna-debug.log*
+node_modules/
+npm-debug.log*
+target/
+yarn-debug.log*
+yarn-error.log*
